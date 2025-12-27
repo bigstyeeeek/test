@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: material
+markdown_extionsions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.breaks
