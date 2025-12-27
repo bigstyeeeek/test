@@ -4,4 +4,4 @@ theme:
 markdown_extionsions:
   - pymdownx.superfences
   - pymdownx.tabbed
-  - pymdownx.breaks
+  - n12br
